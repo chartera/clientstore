@@ -1,3 +1,3 @@
-# nimando
+# clientstore
 
-A TCP query command replicator
+A sqlite wrapper
